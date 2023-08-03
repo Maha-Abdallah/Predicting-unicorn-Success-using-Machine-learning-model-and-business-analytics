@@ -22,6 +22,7 @@ The primary objective of this project is to create a robust predictive model tha
 **Value and Applications:**
 This project is geared towards empowering investors with data-backed knowledge, allowing them to make well-informed decisions when considering investments in potential unicorn startups. The application of machine learning, web scraping, and Power BI visualization collectively offers a powerful toolset to navigate the complexities of venture capital investments.
 
+
 **References:**
 Throughout this project, I have relied on reputable academic papers, articles, and online resources, ensuring a well-grounded approach in both methodology and analysis.
 
