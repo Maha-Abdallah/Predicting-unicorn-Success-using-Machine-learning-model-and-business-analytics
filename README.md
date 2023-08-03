@@ -1,0 +1,2 @@
+# Predicting-unicorn-Success-using-Machine-learning-model-and-business-analytics
+Master's graduation project, using Python programming, machine learning techniques, and Power BI to predict the success of potential unicorns, aiming to provide valuable insights to investors. Additionally, I have developed custom Python code to conduct web scraping from relevant websites, enabling the collection of crucial data for the analysis.
